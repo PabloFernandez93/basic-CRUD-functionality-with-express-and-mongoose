@@ -1,4 +1,3 @@
-Topics covered:
 
 - Working with EJS
 - Making an index route (Products Index)
@@ -14,7 +13,8 @@ Topics covered:
 
 How to run it:
 
-- (you need to have node installed and mongodb running in the background)
+- install node.js
+- install mongodb and run it in the background
 - npm init -y
 - npm i express ejs mongoose method-override
-- node index.js (to run the file)
+
